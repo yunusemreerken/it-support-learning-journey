@@ -21,7 +21,7 @@ https://www.youtube.com/watch?v=_qQ3CdMgU84
 ---
 
 ## 2. UTM ile Sanal Makine Kurulumu
-
+   UTM İndir: https://mac.getutm.app/
 1. UTM’yi açın ve yeni bir makine oluşturun.  
 2. “Virtualize Ubuntu Server” seçeneğini kullanın.  
 
